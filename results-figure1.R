@@ -4,21 +4,13 @@ times <- seq(0, 10, 1)
 times2 <- seq(0, 10, .01)
 
 ## Source increasing1 environment
-source("Environments/increasing1.R")
-## View structure
-increasing1
+(source("Environments/increasing1.R"))
 ## Source increasing2 environment
-source("Environments/increasing2.R")
-## View structure
-increasing2
+(source("Environments/increasing2.R"))
 ## Source fluctuating1 environment
-source("Environments/fluctuating1.R")
-## View structure
-fluctuating1
+(source("Environments/fluctuating1.R"))
 ## Source fluctuating2 environment
-source("Environments/fluctuating2.R")
-## View structure
-fluctuating2
+(source("Environments/fluctuating2.R"))
 # Irregular1
 ## Create irregular environmental values
 set.seed(20170731)
