@@ -1,6 +1,6 @@
 # SSAplus
 
-This repository contains R code associated with the manuscript "Accounting for environmental change in continuous-time stochastic population models".
+This repository contains R code associated with the paper "Accounting for environmental change in continuous-time stochastic population models".
 
 # results-figure1.R
 
