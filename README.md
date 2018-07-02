@@ -20,8 +20,8 @@ This file (reproduced from Appendix B) has self-contained code for simulating th
 
 # example-increasing.R
 
-This file has self-contained for simulating the SSA and SSA+ for an increasing environment.
+This file has self-contained code for simulating the SSA and SSA+ for an increasing environment.
 
 # example-fluctuating.R
 
-This file has self-contained for simulating the SSA and SSA+ for a fluctuating environment.
+This file has self-contained code for simulating the SSA and SSA+ for a fluctuating environment.
