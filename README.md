@@ -2,6 +2,10 @@
 
 This repository contains R code associated with the paper "Accounting for environmental change in continuous-time stochastic population models".
 
+Link to paper:
+
+For questions, contact me at legault@unc.edu
+
 # results-figure1.R
 
 This annotated file contains code for reproducing Figure 1 in the manuscript. 
