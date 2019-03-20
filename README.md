@@ -2,7 +2,7 @@
 
 This repository contains R code associated with the paper "Accounting for environmental change in continuous-time stochastic population models".
 
-Link to paper:
+Link to paper: https://link.springer.com/article/10.1007/s12080-018-0386-z
 
 For questions, contact me at legault@unc.edu
 
